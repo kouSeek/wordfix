@@ -27,5 +27,5 @@ Features
 Not only words, you can directly pass an entire document text to the fix method.
 The package will handle the punctuations properly.
 
-You can add or remove any words as per the language/domain to the dictionary file(en_words_cleaned.txt) located at the data directory.
+You can add or remove any words as per the language/domain to the dictionary file(frequency_dictionary_en_82_765.txt) located at the data directory.
 
